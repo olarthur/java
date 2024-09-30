@@ -1,2 +1,2 @@
-# java
- projetos em java
+# Java-beecrowd
+ Exercícios 'accepted' no Beecrowd
