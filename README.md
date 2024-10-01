@@ -1,2 +1,2 @@
 # Java-beecrowd
- Exercícios 'accepted' no Beecrowd
+ Exercícios 'accepted' no Beecrowd.
