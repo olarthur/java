@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-public class Main {
+public class Intervalo {
     public static void main(String[] args) throws IOException {
         Scanner leia = new Scanner(System.in);
         double valor;

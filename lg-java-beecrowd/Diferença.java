@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Diferença {
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);
         int a, b, c, d, diferenca;
